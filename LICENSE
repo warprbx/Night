@@ -4,7 +4,11 @@ Copyright (c) 2024, Night for Roblox Team
 
 All rights reserved.
 
-## Definitions
+# Statement of Purpose
+
+The Night for Roblox Team has created this license to clearly define the terms and conditions under which this software can be used, redistributed, and showcased. This license aims to protect the intellectual property rights of the creators while allowing for limited use and distribution under specific circumstances.
+
+# Definitions
 
 For the purposes of this license:
 
@@ -12,11 +16,7 @@ For the purposes of this license:
 
 "REDISTRIBUTION" means distributing the source code of this project, any source code dependent on this project, excluding the loadstring (a single line of code that fetches this GitHub project and initializes it), and any configurations.
 
-## Disclaimer
-
-THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT ANY WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE COPYRIGHT HOLDERS OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
-## Terms and Conditions
+ Terms and Conditions
 
 By using, redistributing, or showcasing this project, you acknowledge and agree to the following terms:
 
@@ -40,7 +40,15 @@ The following individuals are authorized to redistribute, fork, or showcase this
 - Lr (@kiurgjirkgk on GitHub)
 - Luc (@warprbx on GitHub)
 
-## Additional Notes
+# Limitations and Disclaimers
+
+a. No trademark or patent rights held by the Night for Roblox Team are waived, abandoned, surrendered, licensed or otherwise affected by this document.
+
+b. The Night for Roblox Team offers the Work as-is and makes no representations or warranties of any kind concerning the Work, express, implied, statutory or otherwise, including without limitation warranties of title, merchantability, fitness for a particular purpose, non-infringement, or the absence of latent or other defects, accuracy, or the present or absence of errors, whether or not discoverable, all to the greatest extent permissible under applicable law.
+
+c. The Night for Roblox Team disclaims responsibility for clearing rights of other persons that may apply to the Work or any use thereof, including without limitation any person's Copyright and Related Rights in the Work. Further, the Night for Roblox Team disclaims responsibility for obtaining any necessary consents, permissions or other rights required for any use of the Work.
+
+# Additional Notes
 
 - Multiple photos of the software are available in this GitHub repository.
 - The copyright holders reserve the right to remove any fork of this project published on GitHub if they deem it unsuitable.
