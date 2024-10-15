@@ -28,12 +28,8 @@ Reason: Many scripts are outdated, skidded, poorly made, with very bad stability
 
 > - You **MAY** edit the entire software for personal usage only.
 > - You **MAY** create your own night configuration file.
-> - A night configuration file is a "custom configuration" for Night using the shared scripting API.
 
-> - You are **NOT** allowed to share any modifications to the software except for your night configuration file.
-> - To share your night configuration file, you **MUST** either:
-  > 1. Submit a pull request to the official GitHub repository, or
-  > 2. Ask the developers directly to upload it to the GitHub repository.
+> - To share your night configuration file, read through the [License](https://github.com/warprbx/Night/blob/main/LICENSE).
 > - Your shared night configuration file **MAY NOT** be shared anywhere else besides this GitHub repository **UNLESS** explicitly allowed by the maintainer.
 
 > - You **MUST** always include the following Credit string: `Night https://github.com/warprbx/Night/tree/main`
