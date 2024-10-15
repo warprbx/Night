@@ -24,16 +24,20 @@ This project aims to provide a single script for all your needs, instead of havi
 Reason: Many scripts are outdated, skidded, poorly made, with very bad stability and user experience. 
 
 > [!WARNING]
-> As stated under the Section 7 (b) in the LICENSE:
+> As stated in the LICENSE:
 
-> - You **MAY** create your own a night configuration file.
-> - A night configuration file is a "custom configuration"for Night using the shared scripting api.
-> - You are **NOT** allowed to share your night configration file unless you met the conditions.
-> - If you would like to share your night configuration file, you **MUST** ask the developers to upload it in this github.
->- Your shared configuration **MAY NOT** be shared anywhere else besides this github **UNLESS** allowed by maintainer.
- 
-> - You **MUST** always include the following Credit string: `https://github.com/warprbx/Night/tree/main`
-> - You are **NOT** allowed to claim authorship of the source code provided in this repository
+> - You **MAY** edit the entire software for personal usage only.
+> - You **MAY** create your own night configuration file.
+> - A night configuration file is a "custom configuration" for Night using the shared scripting API.
+
+> - You are **NOT** allowed to share any modifications to the software except for your night configuration file.
+> - To share your night configuration file, you **MUST** either:
+  1. Submit a pull request to the official GitHub repository, or
+  2. Ask the developers directly to upload it to the GitHub repository.
+> - Your shared night configuration file **MAY NOT** be shared anywhere else besides this GitHub repository **UNLESS** explicitly allowed by the maintainer.
+
+- You **MUST** always include the following Credit string: `Night https://github.com/warprbx/Night/tree/main`
+- You are **NOT** allowed to claim authorship of the source code provided in this repository.
 > - You **MUST** always include the following [License](https://github.com/warprbx/Night/blob/main/LICENSE)
 
 > [!TIP]
