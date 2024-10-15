@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="400px" style="margin: 0; padding: 0" src="https://github.com/warprbx/Night/src/assets/banner" />
+  <img height="400px" style="margin: 0; padding: 0" src="https://cdn.discordapp.com/attachments/1265660065663418368/1295548020451967068/1246177642370170921-1246575580543979530-night_final_1.png?ex=670f0c9e&is=670dbb1e&hm=ad1959df781764e4f11fdc32fb3cb1929a067f7189f7d28adf055af2c7893f4b&" />
 </p>
 
 
