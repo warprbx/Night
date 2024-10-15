@@ -30,7 +30,7 @@ Reason: Many scripts are outdated, skidded, poorly made, with very bad stability
 > - You **MAY** create your own night configuration file.
 > - To share your night configuration file, read through the [License](https://github.com/warprbx/Night/blob/main/LICENSE).
 
-> - You **MUST** always include the following Credit string: `Night https://github.com/warprbx/Night/tree/main`
+> - You **MUST** always include the following Credit string: `https://github.com/warprbx/Night`
 > - You are **NOT** allowed to claim authorship of the source code provided in this repository.
 > - You **MUST** always include the following [License](https://github.com/warprbx/Night/blob/main/LICENSE)
 
