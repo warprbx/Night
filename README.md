@@ -26,7 +26,7 @@ Reason: Many scripts are outdated, "skidded", poorly made, with very bad stabili
 > [!WARNING]
 > As stated in the LICENSE:
 
-> - You **MAY** edit the entire software for personal usage only.
+> - You **MAY** edit the entire software for personal usage only. All forks **MUST** be private.
 > - You **MAY** create your own night configuration file.
 > - To share your night configuration file, read through the [License](https://github.com/warprbx/Night/blob/main/LICENSE).
 
