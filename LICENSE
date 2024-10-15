@@ -11,7 +11,9 @@ The user, by using, redistributing, or showcasing this project, acknowledges and
 ## Definitions
 
 - NIGHT CONFIGURATION FILE: A "custom configuration" for Night using the shared scripting API.
-- REDISTRIBUTION: Distributing the source code of this project, any source code dependent on this project, excluding the loadstring (one line of code that fetches this GitHub project and initializes it), and any configurations.
+- REDISTRIBUTION: Distributing the source code of this project, and any source code of this project, and any source code dependent on this project, discluding the loadstring (one line of code that fetches this GitHub project and initializes it, looks something like {
+      "loadstring(game:HttpGet("https://github.com/warprbx/NightForRoblox/raw/main/src/load.lua"))()" -- subject to change and is limited only to source files held by the copyright holder.
+}), and any configurations.
 
 ## Terms and conditions:
 
