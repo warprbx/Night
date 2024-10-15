@@ -1,4 +1,4 @@
-# NIGHTFORROBLOX LICENSE
+NIGHTFORROBLOX LICENSE
 
 Copyright (c) 2024, Night for Roblox Team
 
@@ -8,14 +8,14 @@ THIS PRODUCT IS PROVIDED "AS IS" WITHOUT ANY KIND OF WARRANTY. THE COPYRIGHT HOL
 
 The user, by using, redistributing, or showcasing this project, acknowledges and agrees to all the following:
 
-## Definitions
+# Definitions
 
 - NIGHT CONFIGURATION FILE: A "custom configuration" for Night using the shared scripting API.
 - REDISTRIBUTION: Distributing the source code of this project, and any source code of this project, and any source code dependent on this project, discluding the loadstring (one line of code that fetches this GitHub project and initializes it, looks something like {
       "loadstring(game:HttpGet("https://github.com/warprbx/NightForRoblox/raw/main/src/load.lua"))()" -- subject to change and is limited only to source files held by the copyright holder.
 }), and any configurations.
 
-## Terms and conditions:
+# Terms and conditions:
 
 1. You MAY create your own Night configuration file for personal use.
 
@@ -51,7 +51,7 @@ The user, by using, redistributing, or showcasing this project, acknowledges and
 
 12. If you redistribute or showcase this project, intentionally or unintentionally, you must be a contributor to this project and possess legitimate evidence of your contribution, which is to be listed in the 'Authorized Individuals' section of this license.
 
-## Authorized Individuals
+# Authorized Individuals
 
 The following individuals are currently authorized (listed by their GitHub usernames):
 
