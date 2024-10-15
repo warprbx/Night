@@ -36,8 +36,8 @@ Reason: Many scripts are outdated, skidded, poorly made, with very bad stability
   > 2. Ask the developers directly to upload it to the GitHub repository.
 > - Your shared night configuration file **MAY NOT** be shared anywhere else besides this GitHub repository **UNLESS** explicitly allowed by the maintainer.
 
-- You **MUST** always include the following Credit string: `Night https://github.com/warprbx/Night/tree/main`
-- You are **NOT** allowed to claim authorship of the source code provided in this repository.
+> - You **MUST** always include the following Credit string: `Night https://github.com/warprbx/Night/tree/main`
+> - You are **NOT** allowed to claim authorship of the source code provided in this repository.
 > - You **MUST** always include the following [License](https://github.com/warprbx/Night/blob/main/LICENSE)
 
 > [!TIP]
