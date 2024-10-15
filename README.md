@@ -32,7 +32,7 @@ Reason: Many scripts are outdated, skidded, poorly made, with very bad stability
 > - If you would like to share your night configuration file, you **MUST** ask the developers to upload it in this github.
 >- Your shared configuration **MAY NOT** be shared anywhere else besides this github **UNLESS** allowed by maintainer.
  
-> - You **MUST** always include the following Credit string: `Night https://github.com/warprbx/Night/tree/main`
+> - You **MUST** always include the following Credit string: `https://github.com/warprbx/Night/tree/main`
 > - You are **NOT** allowed to claim authorship of the source code provided in this repository
 > - You **MUST** always include the following [License](https://github.com/warprbx/Night/blob/main/LICENSE)
 
