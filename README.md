@@ -28,9 +28,7 @@ Reason: Many scripts are outdated, skidded, poorly made, with very bad stability
 
 > - You **MAY** edit the entire software for personal usage only.
 > - You **MAY** create your own night configuration file.
-
 > - To share your night configuration file, read through the [License](https://github.com/warprbx/Night/blob/main/LICENSE).
-> - Your shared night configuration file **MAY NOT** be shared anywhere else besides this GitHub repository **UNLESS** explicitly allowed by the maintainer.
 
 > - You **MUST** always include the following Credit string: `Night https://github.com/warprbx/Night/tree/main`
 > - You are **NOT** allowed to claim authorship of the source code provided in this repository.
