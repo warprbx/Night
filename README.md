@@ -1,5 +1,4 @@
 <p align="center">
-  <img height="400px" style="margin: 0; padding: 0" src="https://cdn.discordapp.com/attachments/1265660065663418368/1295550620521992285/124617764170921-124657558054397.png?ex=670f0f0a&is=670dbd8a&hm=06bdfe8da38e42a842c05e253c98d19ed18d8dc1a1e822ee50468ea567aa27be&" />
 </p>
 
 
